@@ -12,8 +12,8 @@ auto_thanks.rb: pousse automatiquement un message direct à vos nouveaux followe
 
 presse.rb: balance un tweet avec violence à une liste de users (ici des journalistes). 
 
-  # A noter que je devais ajouter un sleep(30) dans la boucle afin de ne pas dépasser les reco twitter
-  # mais du coup je suis ban pour le write, je n'ai pas pu déployer :(
+  //A noter que je devais ajouter un sleep(30) dans la boucle afin de ne pas dépasser les reco twitter
+  //mais du coup je suis ban pour le write, je n'ai pas pu déployer :(
 
 Bon j'ai créé un nouveau compte car l'autre était ban tu coup j'ai ajouté mon sleep afin d'éviter un nouveau ban. A la grâce de toi, correcteur, pour en tenir compte ou pas dans la notation:)
 
