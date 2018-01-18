@@ -10,7 +10,7 @@ like_topic.rb: permet de mettre un j'aime aux tweets qui parlent d'un ou plusieu
 
 auto_thanks.rb: pousse automatiquement un message direct à vos nouveaux followers
 
-presse.rb: balance un tweet avec violence à une liste de users (ici des journalistes)
+presse.rb: balance un tweet avec violence à une liste de users (ici des journalistes). A noter que je devais ajouter un sleep(60) dans la boucle afin de ne pas dépasser les reco twitter, mais du coup je suis ban pour le write, je n'ai pas pu déployer :(
 
 Aujourd'hui j'ai donc pu dire bonjour, savoir que Felix est populaire chez les asiatiques, remercier mon follower mystère et pourrir un peu plus le twitter de ces journalistes :).
 
